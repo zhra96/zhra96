@@ -1,6 +1,6 @@
 ## Hi there 👋
 ## 🔭 I’m currently working on leetcode problems
-## 🌱 I’m currently learning ...
+## 🌱 I’m currently learning data strcutures and algorithms
 
 <!--
 **zhra96/zhra96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
